@@ -5,3 +5,7 @@ In order to obtain the solution it is only necessary to have the folder "UCI HAR
 The tidy data set obtained after running the script is in the file called SolutionDataSet.txt
 
 ## Codebook
+
+Down below there is the description for each variable
+
+### Subject: 
